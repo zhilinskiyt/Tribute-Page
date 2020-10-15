@@ -1,4 +1,4 @@
 # Tribute-Page
 
 
-https://zhilinskiyt.github.io/tribute-page
+https://zhilinskiyt.github.io/tribute-page/
