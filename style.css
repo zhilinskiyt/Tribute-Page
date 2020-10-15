@@ -1,0 +1,9 @@
+.wrapper {
+    margin: auto;
+    width: 1024px;
+}
+
+.timeline {
+    margin: auto;
+    max-width: 600px;
+}
